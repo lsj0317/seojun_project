@@ -8,7 +8,9 @@
 ### 10초의 시간이 지나면 게임이 종료되고 처음시작으로 돌아옵니다
 
 ### 스크립트 내용
+![image](https://user-images.githubusercontent.com/90132197/164389463-3d6f87f4-cc38-4859-953d-295364292e25.png)
+![image](https://user-images.githubusercontent.com/90132197/164389541-00a61710-dfd6-4257-a3df-7f8bf8a0fb86.png)
 
 
 ### 실행장면
-![APT](https://user-images.githubusercontent.com/90132197/164388451-1d960bf6-3db9-4720-bec1-70681d7807a5.gif)
+![typing_master](https://user-images.githubusercontent.com/90132197/164388284-941c63aa-08a5-4fc8-9261-c12131b944d3.gif)
